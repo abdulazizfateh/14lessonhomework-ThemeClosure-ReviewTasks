@@ -54,7 +54,7 @@
 
 
 // TASK 3 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-// Promt yordamida ixtiyoriy son kiritilsin va o'sha sonning lvadradi palindrome yoki palindrome emasligi topilsin 
+// Prompt yordamida ixtiyoriy son kiritilsin va o'sha sonning kvadrati palindrome yoki palindrome emasligi topilsin 
 // algorithm function ichida bo'lsin
 
 // let a = 11;
